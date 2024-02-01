@@ -7,8 +7,8 @@
 }
 
 @font-face {
-    font-family: kids;
-    src: url(Kids.ttf)
+    font-family: Arame;
+    src: url(Arame.ttf)
 }
 
 @font-face {
@@ -17,8 +17,8 @@
 }
 
 @font-face {
-    font-family: california;
-    src: url(Californiaa.ttf);
+    font-family: Bebas;
+    src: url(Bebas.otf);
 }
 
 body{
@@ -77,16 +77,16 @@ body{
 
 .titulo {
     text-align: center;
-    font-family: kids;
+    font-family: Arame;
 }
 
 .titulo2 {
     text-align: center;
-    font-family: california;
+    font-family: Bebas;
 }
 
 .titulo3 {
     text-align: center;
-    font-family: havelock;
+    font-family: Arame;
     color: aliceblue;
 }
