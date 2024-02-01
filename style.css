@@ -12,8 +12,8 @@
 }
 
 @font-face {
-    font-family: havelock;
-    src: url(Havelock.otf);
+    font-family: California;
+    src: url(Californiaa.ttf);
 }
 
 @font-face {
@@ -89,4 +89,13 @@ body{
     text-align: center;
     font-family: Arame;
     color: aliceblue;
+}
+
+.titulo4 {
+    text-align: center;
+    font-family: California;
+}
+
+.rodape {
+    text-align: center;
 }
